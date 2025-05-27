@@ -7,7 +7,10 @@ Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** co
 -  Programador hardcore y 
 -  Manejar Algoritmos para resolver problemas
 -  Desarrollar Aplicaciones y programas sofisticados
--  Buscar oportunidades de aprendizaje y colaboración 
+-  Buscar oportunidades de aprendizaje y colaboración
+-  Modding de Videojuegos
+
+⠀⠀⠀⠀⠀⠀ 
 
 ## Intereses principales
 
@@ -31,25 +34,22 @@ Curious IT enthusiast with a passion for hardcoding, algorithms, ethical hacking
 - Seguridad informática
 - Programación en C / Ensamblador
 - MySQL
+
 ```txt
-        =/;;/-
-                +:    //
-               /;      /;
-              -X        H.
-.//;;;:;;-,   X=        :+   .-;:=;:;%;.
-M-       ,=;;;#:,      ,:#;;:=,       ,@
-:%           :%.=/++++/=.$=           %=
- ,%;         %/:+/;,,/++:+/         ;+.
-   ,+/.    ,;@+,        ,%H;,    ,/+,
-      ;+;;/= @.  .H##X   -X :///+;
-      ;+=;;;.@,  .XM@$.  =X.//;=%/.
-   ,;:      :@%=        =$H:     .+%-
- ,%=         %;-///==///-//         =%,
-;+           :%-;;;;;;;;-X-           +:
-@-      .-;;;;M-        =M/;;;-.      -X
- :;;::;;-.    %-        :+    ,-;;-;:==
-              ,X        H.
-               ;/      %=
-                //    +;
-                 ,////,            
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⣤⣴⣦⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⠿⠿⠿⠿⣿⣿⣿⣿⣶⣤⡀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⣠⣾⣿⣿⡿⠛⠉⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣶⡀⠀⠀⠀⠀
+⠀⠀⠀⣴⣿⣿⠟⠁⠀⠀⠀⣶⣶⣶⣶⡆⠀⠀⠀⠀⠀⠀⠈⠻⣿⣿⣦⠀⠀⠀
+⠀⠀⣼⣿⣿⠋⠀⠀⠀⠀⠀⠛⠛⢻⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠙⣿⣿⣧⠀⠀
+⠀⢸⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⢀⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⡇⠀
+⠀⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⠀
+⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⢠⣿⣿⡟⢹⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⣹⣿⣿⠀
+⠀⣿⣿⣷⠀⠀⠀⠀⠀⠀⣰⣿⣿⠏⠀⠀⢻⣿⣿⡄⠀⠀⠀⠀⠀⠀⣿⣿⡿⠀
+⠀⢸⣿⣿⡆⠀⠀⠀⠀⣴⣿⡿⠃⠀⠀⠀⠈⢿⣿⣷⣤⣤⡆⠀⠀⣰⣿⣿⠇⠀
+⠀⠀⢻⣿⣿⣄⠀⠀⠾⠿⠿⠁⠀⠀⠀⠀⠀⠘⣿⣿⡿⠿⠛⠀⣰⣿⣿⡟⠀⠀
+⠀⠀⠀⠻⣿⣿⣧⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⠏⠀⠀⠀
+⠀⠀⠀⠀⠈⠻⣿⣿⣷⣤⣄⡀⠀⠀⠀⠀⠀⠀⢀⣠⣴⣾⣿⣿⠟⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠈⠛⠿⣿⣿⣿⣿⣿⣶⣶⣿⣿⣿⣿⣿⠿⠋⠁⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠛⠛⠛⠛⠛⠛⠉⠉⠀
+        
 
