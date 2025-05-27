@@ -19,6 +19,7 @@ Aún explorando en qué especializarme,  actualmente estoy adentrándome en áre
 - Desarrollo de aplicaciones web
 - Aplicación de Algorritmia: BFS, Recursión, Quicksort, Ordenación por selección, Busqueda binaria...
 - Lenguaje ensamblador x86-64 en el area del reversing y Hacking Ético
+  ```txt
 ⠀⠀⢀⣤⣤⣤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⢸⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠘⠉⠉⠙⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀
@@ -30,7 +31,6 @@ Aún explorando en qué especializarme,  actualmente estoy adentrándome en áre
 ⠀⠀⢠⣿⣿⣿⡟⠀⠀⠀⢻⣿⣿⣿⡆⠀⠀
 ⠀⢠⣿⣿⣿⡿⠀⠀⠀⠀⠀⢿⣿⣿⣷⣤⡄
 ⢀⣾⣿⣿⣿⠁⠀⠀⠀⠀⠀⠈⠿⣿⣿⣿⡇
-
 
 ## Perfil profesional
 
@@ -44,6 +44,7 @@ Curious IT enthusiast with a passion for hardcoding, algorithms, ethical hacking
 - Seguridad informática
 - Programación en C / Ensamblador
 - MySQL
+
                 =/;;/-
                 +:    //
                /;      /;
@@ -63,4 +64,6 @@ M-       ,=;;;#:,      ,:#;;:=,       ,@
               ,X        H.
                ;/      %=
                 //    +;
-                 ,////,                                     
+                 ,////,
+```
+                           
