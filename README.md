@@ -4,7 +4,7 @@ Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** co
 
 ## Motivación por Github
 
--  Programador hardcore y 
+-  Programador hardcore
 -  Manejar Algoritmos para resolver problemas
 -  Desarrollar Aplicaciones y programas sofisticados
 -  Buscar oportunidades de aprendizaje y colaboración
