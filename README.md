@@ -15,7 +15,7 @@ Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** co
 
 Aún me encuentro explorando en qué especializarme,  actualmente estoy adentrándome en áreas como:
 
-- Seguridad informática y Hacking Ético(Pentesting y análisis de malware)
+- Programación en C++
 - Desarrollo de aplicaciones Backend
 - Aplicación de Algorritmia: BFS, Recursión, Quicksort, Ordenación por selección, Busqueda binaria...
 - Lenguaje ensamblador x86-64 en el area del reversing y Hacking Ético
