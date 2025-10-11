@@ -9,8 +9,6 @@ Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** co
 -  Nutrirme del conocimiento de otros desarrolladores.
 -  Exponer mis avances y conocimientos.
 
-⠀⠀⠀⠀⠀⠀ 
-
 ## Intereses actuales
 
 Aún me encuentro explorando en qué especializarme, actualmente estoy adentrándome en áreas como:
