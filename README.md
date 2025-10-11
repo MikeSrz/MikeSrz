@@ -1,11 +1,11 @@
 # MikeSrz – Estudiante de ASIR
 
-Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con una fuerte pasión por la programación de bajo nivel, el hacking y el desarrollo. Me gusta ir más allá de la superficie, explorando cómo funcionan realmente los sistemas desde dentro. Me gusta resolver problemas.
+Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con una fuerte pasión por la programación de bajo nivel, el hacking y el desarrollo. 
 
 ## Motivación por Github
 
 -  Aprender a programar en equipo.
--  Desarrollar Aplicaciones y programas sofisticados con apoyo de la comunidad.
+-  Desarrollar Aplicaciones y programas sofisticados.
 -  Nutrirme del conocimiento de otros desarrolladores.
 -  Exponer mis avances y conocimientos.
 
@@ -13,19 +13,20 @@ Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** co
 
 ## Intereses actuales
 
-Aún me encuentro explorando en qué especializarme,  actualmente estoy adentrándome en áreas como:
+Aún me encuentro explorando en qué especializarme, actualmente estoy adentrándome en áreas como:
 
-- Programación en C++
-- Desarrollo de aplicaciones Backend
+- Programación en Java y Python
+- Desarrollo Backend y despliegue de contenedores con Docker
 - Aplicación de Algorritmia: BFS, Recursión, Quicksort, Ordenación por selección, Busqueda binaria...
-- Lenguaje ensamblador x86-64 en el area del reversing y Hacking Ético
 
 ## Lenguajes y Herramientas
-- Javascript, HTML5, CSS
-- Linux / Bash
-- Seguridad informática, Wireshark, aircrack, kali linux, Microsoft Defender
-- Programación en C / Ensamblador
-- MySQL
+- Desarrollo Web: Javascript, HTML5, CSS
+- Entornos y S.O: Linux y Bash Scripting
+- Herramientas de desarrollo: Docker y git
+- Seguridad informática y redes: Análisis de tráfico con Wireshark y Kali-Linux
+- Lenguajes de Programación: C++, Java, Python y JavaScript
+- Bases de datos: MySQL
+- Otros: Nociones de Ensamblador y Reversing
   
 ```txt
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣠⣤⣤⣴⣦⣤⣤⣄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
