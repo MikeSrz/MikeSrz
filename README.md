@@ -1,6 +1,6 @@
 # MikeSrz – Estudiante de ASIR
 
-Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con una fuerte pasión por la programación de bajo nivel, el hacking y el desarrollo. 
+Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con una fuerte pasión por la programación de bajo nivel y el desarrollo. 
 
 ## Motivación por Github
 
