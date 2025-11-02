@@ -1,6 +1,6 @@
 # MikeSrz – Estudiante de ASIR
 
-Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con una fuerte inclinación hacia le desarrollo de software.
+Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con una fuerte inclinación hacia el desarrollo de software.
 
 ## Motivación por Github
 
