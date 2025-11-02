@@ -16,7 +16,7 @@ Aún me encuentro explorando en qué especializarme, actualmente estoy adentrán
 - Programación en Java, Python y PHP
 - Despliegue de contenedores con Docker
 - Aplicación de Algorritmia: BFS, Recursión, Quicksort, Ordenación por selección, Busqueda binaria...
-- Desarrollo BackEnd con el franework Django
+- Desarrollo BackEnd con Django
 - También me gusta la programación de bajo nivel y me interesa el desarrollo de mods en videojuegos.
 
 ## Lenguajes y Herramientas
