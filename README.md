@@ -1,21 +1,23 @@
 # MikeSrz – Estudiante de ASIR
 
-Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con una fuerte pasión por la programación de bajo nivel y el desarrollo. 
+Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con una fuerte inclinación hacia le desarrollo de software.
 
 ## Motivación por Github
 
 -  Aprender a programar en equipo.
 -  Desarrollar Aplicaciones y programas sofisticados.
--  Nutrirme del conocimiento de otros desarrolladores.
+-  Aprender de otros desarrolladores.
 -  Exponer mis avances y conocimientos.
 
 ## Intereses actuales
 
 Aún me encuentro explorando en qué especializarme, actualmente estoy adentrándome en áreas como:
 
-- Programación en Java y Python
-- Desarrollo Backend y despliegue de contenedores con Docker
+- Programación en Java, Python y PHP
+- Despliegue de contenedores con Docker
 - Aplicación de Algorritmia: BFS, Recursión, Quicksort, Ordenación por selección, Busqueda binaria...
+- Desarrollo BackEnd con el franework Django
+- También me gusta la programación de bajo nivel y me interesa el desarrollo de mods en videojuegos.
 
 ## Lenguajes y Herramientas
 - Desarrollo Web: Javascript, HTML5, CSS
