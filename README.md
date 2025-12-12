@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i1.wp.com/www.nerdonomy.com/wp-content/uploads/matrixheader-1024x2961.png?resize=1024%2C2961&ssl=1" alt="Banner de perfil MikeSrz">
+</p>
+
 # MikeSrz – Estudiante de ASIR
 
 Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**.
