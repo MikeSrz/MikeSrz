@@ -21,7 +21,8 @@ Aún me encuentro interesado actualmente en áreas como:
 - Programación en Java, Python y PHP
 - Despliegue de contenedores con Docker
 - Aplicación de Algorritmia: BFS, Recursión, Quicksort, Ordenación por selección, Busqueda binaria...
-- Desarrollo BackEnd con Django
+- Desarrollo Frontend con Vue.js
+- Desarrollo BackEnd con Django y Laravel
 - También me gusta la programación de bajo nivel y me interesa el desarrollo de mods en videojuegos.
 
 ## Lenguajes y Herramientas que manejo:
