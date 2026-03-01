@@ -30,5 +30,5 @@ Aún me encuentro interesado actualmente en áreas como:
 - Entornos y S.O: Linux y Bash Scripting
 - Herramientas de desarrollo: Docker y git
 - Seguridad informática y redes: Análisis de tráfico con Wireshark y Kali-Linux
-- Lenguajes de Programación: C++, Java, Python y JavaScript
+- Lenguajes de Programación: PHP, Java, Python, C++, y JavaScript
 - Bases de datos: MySQL
