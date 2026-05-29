@@ -4,7 +4,6 @@
 
 # MikeSrz – Estudiante de ASIR
 
-Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**.
 Desarrollador de software.
 
 ## Motivación
