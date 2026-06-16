@@ -22,6 +22,7 @@ Aún me encuentro interesado actualmente en áreas como:
 
 ## Lenguajes y Herramientas que manejo:
 - Desarrollo Frontend: Javascript, HTML5, CSS, TailwindCSS y Vue.js
+- Desarrollo Backend: Laravel y FastApi
 - Entornos y S.O: Linux, Docker y Bash Scripting
 - Seguridad informática y redes: Análisis de tráfico con Wireshark y Kali-Linux
 - Lenguajes de Programación: PHP, Python, Java, JavaScript, Bash y C++
