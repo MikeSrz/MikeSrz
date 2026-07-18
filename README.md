@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://mikesrz.github.io/assets/profile-q8RW3mnA.png" alt="Banner de perfil MikeSrz">
+  <img src="https://mikesrz.github.io/assets/profile-6xpuWe5T.webp" alt="Banner de perfil MikeSrz">
 </p>
 
 # MikeSrz – Desarrollador
