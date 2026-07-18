@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQGRhrUi_61tlA/profile-displaybackgroundimage-shrink_350_1400/B4DZcST46WGcAY-/0/1748358895487?e=1767830400&v=beta&t=yRUqecekdFZrZsQ47zRrPqNOIzGsI59W8wxU4yH9mXA" alt="Banner de perfil MikeSrz">
+  <img src="https://mikesrz.github.io/assets/profile-q8RW3mnA.png" alt="Banner de perfil MikeSrz">
 </p>
 
 # MikeSrz – Desarrollador
